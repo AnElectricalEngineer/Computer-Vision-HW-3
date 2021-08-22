@@ -1,4 +1,6 @@
 # Segmentation
+
+Segmentation is a miniproject in Computer Vision which compares and analyzes the performance of several classic and deep segmentation methods.
  
 ## About Segmentation
 
