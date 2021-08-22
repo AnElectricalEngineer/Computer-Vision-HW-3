@@ -13,7 +13,7 @@ In the second part, deep segmentation is applied to a video, and is used to crea
 ![image](https://user-images.githubusercontent.com/47844685/130358369-0451f51d-236a-47d4-ade0-fffab0c73076.png)
 ![image](https://user-images.githubusercontent.com/47844685/130358379-6b769bf2-159e-4695-bcc2-e3455e9fd973.png)
 ![image](https://user-images.githubusercontent.com/47844685/130358389-e5ea0170-f489-40d9-8816-ec4cb10d5657.png)
-
+![image](https://user-images.githubusercontent.com/47844685/130358652-e629bbb1-67f2-474f-bc59-cbceb27f81b1.png)
 ![image](https://user-images.githubusercontent.com/47844685/130358528-4e21b2eb-a9bd-4084-8ee1-facbaf1b17af.png)
 
 For more details, see the attached PDF of our full report.
